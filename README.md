@@ -1,0 +1,1 @@
+# ticon-product-details-quizyard
